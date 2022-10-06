@@ -24,7 +24,7 @@ import org.sobadfish.warbridge.room.config.GameRoomConfig;
 public class WarBridgeCommand extends Command {
 
     public WarBridgeCommand(String name) {
-        super(name,"战桥游戏房间");
+        super(name,"TheBridge Command");
     }
 
 
